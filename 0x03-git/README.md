@@ -1,1 +1,1 @@
-Readme file
+“Starting to code today, so cool”
